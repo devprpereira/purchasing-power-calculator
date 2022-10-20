@@ -1,0 +1,12 @@
+.item {
+    list-style: none;
+    background-color: #f4f4f4;
+    outline: 1px solid #345790;
+    border-radius: 10px;
+    margin-top: 5px;
+}
+
+.total-items {
+    background-color: #3fb5e661;
+    margin-bottom: 5px;
+}
